@@ -12,7 +12,7 @@ The Inventory Management System R Shiny Prototype App is a web-based application
 - Order Report: Users can download a CSV report containing the reorder recommendations by clicking the "Download Order Report" button in the "Order Report" tab.
 
 # How to Use:
-1. Upload Data: Start by uploading your inventory data in CSV format using the "Upload CSV File" button in the sidebar.
+1. Upload Data: Start by copying and pasting the URL of your inventory data in CSV format into the "Enter CSV URL" text input box provided in the sidebar panel.
 2. Select Inventory Technique: Choose an inventory management technique (Just-in-Time or Economic Order Quantity) from the "Select Inventory Management Technique" dropdown in the sidebar.
 3. Calculate Reorder Recommendations: Click the "Calculate Reorder Quantity and Total Costs" button to generate reorder recommendations and total costs based on the selected technique.
 4. Explore Data and Visualize: Use the tabs to explore the data, visualize inventory information, and view reorder recommendations.
