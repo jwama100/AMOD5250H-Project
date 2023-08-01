@@ -2,7 +2,6 @@
 library(shiny)
 library(dplyr)
 library(readr)
-library(shinyFiles) # Load the shinyFiles package for file input from URL
 library(DT)  # Load the DT package for displaying data tables
 library(ggplot2)  # Load the ggplot2 package for creating visualizations
 
